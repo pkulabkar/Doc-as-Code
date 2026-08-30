@@ -1,23 +1,7 @@
 # Getting Started
-
-You can help
-
-We are here to help *you* get _**started** with the product.
-These are what you must get along:
-- List 1
-    List 2
-- List 2   
-- List 3
-
-[For details](/README.md)
-
-[For details](www.google.com)
-![For details](www.google.com)
-
-Also, remember the tips and you need to press `enter` and write `git clone`:
-1. Step 1
-1.  Step
+The document includes the following sections.
 - [Getting Started](#getting-started)
+  - [Safety measures](#safety-measures)
   - [Overview](#overview)
     - [How to use](#how-to-use)
       - [Tips](#tips)
@@ -26,10 +10,33 @@ Also, remember the tips and you need to press `enter` and write `git clone`:
   - [Before you begin](#before-you-begin)
   - [Next steps](#next-steps)
 
-1. Step 2
-1. Step 3
-1. Step 4
-1. Step 5
+
+As you get started, it is important to know the safety measures that lab assistants must follow.
+
+## Safety measures
+
+- Always wear PPE (lab coat, gloves, goggles)   
+  **Note**: The PPE must be prior approved.
+- Handle solvents in a ventilated area
+- Follow chemical disposal protocols
+- Do not open instrument panels during operation
+
+Before starting the system, follow the instructions.   
+
+**To start the system**   
+1. Switch on the instrument modules.
+2. Launch the chromatography software.
+3. Check solvent levels.
+4. Prime the pump if required.
+5. Ensure column is installed correctly.
+6. Ensure that the hardware configuration is correct. See [Hardware Configuration Guide](hardware-configuration.md). 
+7. Perform system check by pressing `Enter` on your keyboard.
+
+   
+
+
+
+
 
 ```
 python
@@ -40,12 +47,7 @@ def fibonacci(n):
     return a
 ```
 
-Insert table
-| ---| --- | --- |
-| sani| Les | --- 
 
-This is for beginners. Not for advanced.
->**Note**: This is a workshop on Markdown.
 
 - [x] Set up the editor
 - [x] Write some markdown
