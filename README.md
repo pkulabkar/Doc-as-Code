@@ -1,2 +1,5 @@
 # Doc-as-Code
-Documentation project for learning and implemening Docs-as-code using Mardown, Github, and Docusaurus. This is only for practice.
+Explore our guides to understand the 3Q Chromatography software:
+- [Getting Started](getting-started.md) guide.
+- [Administration](administration.md) guide.
+- [Installation](installation-guide.md) guide.
