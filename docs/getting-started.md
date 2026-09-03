@@ -24,7 +24,9 @@ Before starting the system, follow the instructions.
 4. Prime the pump if required.
 5. Ensure column is installed correctly.
 6. Ensure that the hardware configuration is correct. See [Hardware Configuration Guide](hardware-configuration.md). 
-7. Perform system check by pressing `Enter` on your keyboard.   
+7. Perform system check by pressing `Enter` on your keyboard. You would see the following ![The workflow](/docs/Images/Screenshot%202026-09-02%20225752.png)
+8. When you succeed, you see the success message. ![Success message](/docs/Images/Screenshot%202026-09-02%20225833.png)
+   
    
 ## Next steps
  
