@@ -1,7 +1,8 @@
 # Monitoring and Troubleshooting Guide   
 In this document you will learn how to monitor and troubleshoot for potential issues.
 
-After you begin the system, ensure that you keep an eye out for the following signals.
+After you begin the system, ensure that you keep an eye out for the following signals.   
+## Signals
 - Real-Time Monitoring
 - Observe chromatogram peaks
 - Monitor pressure levels

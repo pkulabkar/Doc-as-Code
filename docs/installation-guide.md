@@ -1,3 +1,9 @@
+# Installation Guide   
+- [Installation Guide](#installation-guide)
+  - [Install the product](#install-the-product)
+  - [Verify the installation](#verify-the-installation)
+  - [Next steps](#next-steps)
+  
 ## Install the product
  
 1. Download the installation package.

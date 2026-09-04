@@ -1,5 +1,8 @@
 # Administration Guide   
-The section talks about the user access.
+- [Administration Guide](#administration-guide)
+  - [User \& Access Management](#user--access-management)
+  - [Instrument Readiness Check for lab assistants.](#instrument-readiness-check-for-lab-assistants)
+  - [Checklist](#checklist)
 ## User & Access Management
 Lab Assistants typically have limited permissions, but they should understand:
 - Login/Logout

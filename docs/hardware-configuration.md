@@ -1,6 +1,6 @@
 # Hardware Configuration Guide
-The document spells out the hardware configuration of the software.
-System Components
+- [Hardware Configuration Guide](#hardware-configuration-guide)
+  - [Hardware Components](#hardware-components)
 
 ## Hardware Components
 - Solvent Delivery System (Pump) – Moves mobile phase
