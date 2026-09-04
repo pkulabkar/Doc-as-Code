@@ -1,20 +1,25 @@
 # Administration Guide   
 - [Administration Guide](#administration-guide)
   - [User \& Access Management](#user--access-management)
+    - [Precautions](#precautions)
+    - [Benefits](#benefits)
+    - [Restrictions](#restrictions)
   - [Instrument Readiness Check for lab assistants.](#instrument-readiness-check-for-lab-assistants)
   - [Checklist](#checklist)
 ## User & Access Management
-Lab Assistants typically have limited permissions, but they should understand:
+Lab Assistants typically have limited permissions. But they should understand the precautions.
+### Precautions
 - Login/Logout
 - Use assigned credentials
 - Do not share login IDs
 - Role-based access
 
-The Lab Assistant role allows:
+### Benefits
 - Running samples
 - Viewing reports
 - Basic data entry
-
+  
+### Restrictions   
 The are restricted from:
 - System configuration
 - Method creation (in most setups)

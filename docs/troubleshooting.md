@@ -8,7 +8,7 @@ After you begin the system, ensure that you keep an eye out for the following si
 - Monitor pressure levels
 - Check system alerts
 
-
+## Observations
 Here are some issues that you may witness.   
 
 | Issue | Possible Cause | Solution |   
@@ -16,4 +16,8 @@ Here are some issues that you may witness.
 | No peaks| Injection failure| Check autosampler|
 |High pressure|Blocked column|Replace column   
 Noise in system| Contamination | Clean System|
-Irregular peaks| Bubbles| Degas sytem|
+Irregular peaks| Bubbles| Degas sytem|   
+
+## Next steps
+ 
+If you still have questions, see the [FAQs](FAQ Guide.md) guide.

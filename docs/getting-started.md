@@ -30,5 +30,5 @@ Before starting the system, follow the instructions.
    
 ## Next steps
  
-After completing the prerequisites, see the [Installation](installation.md) guide.
+See the details [User Guide](user-guide.md).
  

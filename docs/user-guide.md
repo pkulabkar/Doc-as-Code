@@ -24,4 +24,6 @@ This system is widely used in:
 - Faster turnaround time for sample analysis
 - Easy report generation
 
-
+## Next steps
+ 
+After completing the overview, see the [Hardware Configuration](hardware-configuration.md) guide.
