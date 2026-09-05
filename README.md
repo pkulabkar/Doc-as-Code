@@ -1,11 +1,11 @@
 # Doc-as-Code
 Explore our guides to understand the 3Q Chromatography software:
 - [Contact](Contact.md)
-- [Administration](administration.md) 
-- [FAQ](administration.md) guide.
-- [Getting Started](getting-started.md) guide.
-- [Hardware Configuration](hardware-configuration.md)
+- [Administration Guide](administration.md) 
+- [FAQ Guide](administration.md)
+- [Getting Started Guide](getting-started.md)
+- [Hardware Configuration Guide](hardware-configuration.md)
 - [Installation Guide](installation-guide.md)
-- [Troubleshooting Guide](installation-guide.md) guide.
-- [User Guide](user-guide.md) guide.
+- [Troubleshooting Guide](installation-guide.md)
+- [User Guide](user-guide.md)
   
