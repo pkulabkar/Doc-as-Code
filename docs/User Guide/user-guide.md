@@ -27,3 +27,4 @@ This system is widely used in:
 ## Next steps
  
 After completing the overview, see the [Hardware Configuration](hardware-configuration.md) guide.
+Also, you may want to contact Support for assistance.
