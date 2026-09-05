@@ -19,11 +19,21 @@ This system is widely used in:
 - Compliance-ready (audit trails, user roles, data integrity)
 
 ## Benefits for Lab Assistants
-- Simplified workflows with guided methods
+- Simplified workflows with guided methods. 
 - Reduced manual errors through automation
-- Faster turnaround time for sample analysis
+- Faster turnaround time for sample analysisPerform system check by pressing `Enter` on your keyboard. You would see the following ![The workflow](/docs/Images/Screenshot%202026-09-02%20225752.png)
 - Easy report generation
+  
+ ## Observations
+Here are some issues that you may witness.   
 
+| Issue | Possible Cause | Solution |   
+|-------|----------------|----------|   
+| No peaks| Injection failure| Check autosampler|
+|High pressure|Blocked column|Replace column   
+Noise in system| Contamination | Clean System|
+Irregular peaks| Bubbles| Degas sytem|   
+ 
 ## Next steps
  
 After completing the overview, see the [Hardware Configuration](hardware-configuration.md) guide.
