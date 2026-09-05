@@ -1,5 +1,10 @@
 # 3Q Chromatography User Guide #
-The document helps you use the software efficiently.
+- [3Q Chromatography User Guide](#3q-chromatography-user-guide)
+  - [Overview](#overview)
+  - [Key Features](#key-features)
+  - [Benefits for Lab Assistants](#benefits-for-lab-assistants)
+  - [Observations](#observations)
+  - [Next steps](#next-steps)
 
 ## Overview
 The 3Q Chromatography System is an advanced analytical platform designed to separate, identify, and quantify chemical components in a sample. It typically integrates:
