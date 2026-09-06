@@ -42,4 +42,7 @@ Irregular peaks| Bubbles| Degas sytem|
 ## Next steps
  
 After completing the overview, see the [Hardware Configuration](hardware-configuration.md) guide.
-Also, you may want to contact Support for assistance.
+
+If you have questions, feel free to look at the FAQs.   
+If the FAQs don't answer your questions, feel free to contact our Custom Support. Our customers are busy, your patience is appreciated.
+
