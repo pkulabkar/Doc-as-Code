@@ -27,4 +27,4 @@ This system is widely used in:
 ## Next steps
  
 After completing the overview, see the [Hardware Configuration](hardware-configuration.md) guide.
-Contact admin for help by calling them at 008002406.
+Contact admin for help by calling them at 008002406. Call them if required.
