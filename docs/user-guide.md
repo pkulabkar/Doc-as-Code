@@ -45,4 +45,4 @@ After completing the overview, see the [Hardware Configuration](hardware-configu
 
 If you have questions, see the [FAQ Guide](faq-guide).   
 If the FAQs don't answer your questions, feel free to contact our Custom Support. Our customers are busy, your patience is appreciated.
-For Custom information, see [Contact Guide](faq-guide).
+For Contact information, see [Contact Guide](faq-guide).
