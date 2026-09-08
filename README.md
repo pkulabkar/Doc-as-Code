@@ -3,7 +3,7 @@
 Explore our guides to understand the 3Q Chromatography software:   
 - [Administration Guide](docs/administration.md)   
 - [Contact Guide](docs/Contact.md)   
-- [FAQ Guide](docs/FAQ%20Guide.md)   
+- [FAQ Guide](docs/faq-guide.md)   
 - [Getting Started](docs/getting-started.md)   
 - [Hardware Configuration Guide](docs/hardware-configuration.md)   
 - [Installation Guide](docs/installation-guide.md)   
