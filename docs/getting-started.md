@@ -1,8 +1,10 @@
+---
+sidebar_position: 1
+---   
 # Getting Started
 The document includes the following sections.
 - [Getting Started](#getting-started)
   - [Safety measures](#safety-measures)
-  - [Observations](#observations)
   - [Next steps](#next-steps)
 
 
@@ -28,15 +30,6 @@ Before starting the system, follow the instructions.
 7. Perform system check by pressing `Enter` on your keyboard. You would see the following ![The workflow](/docs/Images/Screenshot%202026-09-02%20225752.png)
 8. When you succeed, you see the success message. ![Success message](/docs/Images/Screenshot%202026-09-02%20225833.png)
    
-## Observations
-Here are some issues that you may witness.   
-
-| Issue | Possible Cause | Solution |   
-|-------|----------------|----------|   
-| No peaks| Injection failure| Check autosampler|
-|High pressure|Blocked column|Replace column   
-Noise in system| Contamination | Clean System|
-Irregular peaks| Bubbles| Degas sytem|   
    
 ## Next steps
  
