@@ -20,4 +20,4 @@ Irregular peaks| Bubbles| Degas sytem|
 
 ## Next steps
  
-If you still have questions, see the FAQs.
+If you still have questions, see the [FAQs](faq-guide.md).
