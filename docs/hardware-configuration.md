@@ -23,4 +23,4 @@ The following table displays the components.
 | 5 | Data analysis and reporting module |
 
 ## Next Steps
-After completing viewing the hardware components, see the [Installation Guide](installation-guide.md)guide.
+After completing viewing the hardware components, see the [Installation Guide](installation-guide.md).
